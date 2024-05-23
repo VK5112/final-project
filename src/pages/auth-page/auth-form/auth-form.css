@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(118, 185, 82);
+}
+
+.auth-page{
+    margin: 40vh auto;
+    width: 20vw;
+    border-radius: 15px;
+}
+
+.auth-form,
+.auth-page{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
